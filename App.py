@@ -167,7 +167,7 @@ for name, description in participants.items():
 # ----------------------------
 st.header("🔗 Quick Links & Resources")
 st.markdown("""
-- 🌐 [EntreMotivator Cards](http://entremotivator.com/landing/more)  
+- 🌐 [EntreMotivator Cards](http://entremotivator.com/landing/)  
 - 🎧 Community Podcast Hub (coming soon)  
 - 📖 Workshop Materials (upload & share)  
 - 📊 Growth Dashboard (future feature)  
